@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214644642207",
+    "project_id": "smart-electricity-manage-26674",
+    "storage_bucket": "smart-electricity-manage-26674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214644642207:android:114d6cb7805340e299adaa",
+        "android_client_info": {
+          "package_name": "com.kzawn.smart_electricity_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214644642207-1tg5hr0ka19r4sndoihtlv430k48ik6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFpH7K4YljLjafnDFQMNkTEGzbbHAYxgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214644642207-1tg5hr0ka19r4sndoihtlv430k48ik6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
